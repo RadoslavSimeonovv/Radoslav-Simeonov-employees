@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sirma-Task2", "Sirma-Task2\Sirma-Task2.csproj", "{A5A183E9-9DCF-439D-93C5-F5105DCE87AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5A183E9-9DCF-439D-93C5-F5105DCE87AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A183E9-9DCF-439D-93C5-F5105DCE87AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A183E9-9DCF-439D-93C5-F5105DCE87AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A183E9-9DCF-439D-93C5-F5105DCE87AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F811AB5E-B7D0-4B9F-BBB0-2C0B96FC4D80}
+	EndGlobalSection
+EndGlobal
